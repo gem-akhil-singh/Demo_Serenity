@@ -1,8 +1,8 @@
 {
   "environment": "beta",
-  "project_name": "DEMOSERENITY",
+  "project_name": "EXAMPLE",
   "report_name": "Serenity Report",
-  "jewel_bridge_token": "13a86f1b-ca6d-477a-8532-b3bb674264a01675112104492",
+  "jewel_bridge_token": "3c56f072-fd34-4fbd-bc89-cbea026b167b1676025957652",
   "sub_id": "test_id",
   "jewel_user": "akhilsingh",
   "enter_point": "https://apis.gemecosystem.com/enter-point"

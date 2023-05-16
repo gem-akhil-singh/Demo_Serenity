@@ -61,7 +61,7 @@ dependencies {
             "net.serenity-bdd:serenity-rest-assured:${serenityCoreVersion}",
             "io.cucumber:cucumber-java:${ioCucumberVersion}",
             "io.cucumber:cucumber-junit:${ioCucumberVersion}",
-            files('Jars/gemjar-test-2.0.0.jar'),
+            files('Jars/gemjar-testConf.jar'),
             "org.apache.logging.log4j:log4j-core:2.20.0",
             "org.apache.commons:commons-collections4:4.4"//serenity Version 2
     //  files('JarFile/serenity-reportportal-integration.jar')

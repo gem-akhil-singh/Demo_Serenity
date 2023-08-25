@@ -2,7 +2,7 @@ Feature: Demo QA Site Tests
 
 Background:
   Given User Navigates to "https://demoqa.com"
-
+@Test
   Scenario: Element Panel Tests
     Given User Clicks on "Elements"
     And User Clicks on "TextBox"

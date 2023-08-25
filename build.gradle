@@ -36,8 +36,8 @@ targetCompatibility = 1.8
 
 ext {
     slf4jVersion = '1.7.7'
-    serenityCoreVersion = '3.2.5'
-    serenityCucumberVersion = '3.3.0'
+    serenityCoreVersion = '3.8.1'
+    serenityCucumberVersion = '3.8.1'
     ioCucumberVersion = '7.2.3'
     junitVersion = '4.13.1'
     assertJVersion = '3.23.1'
@@ -61,7 +61,7 @@ dependencies {
             "net.serenity-bdd:serenity-rest-assured:${serenityCoreVersion}",
             "io.cucumber:cucumber-java:${ioCucumberVersion}",
             "io.cucumber:cucumber-junit:${ioCucumberVersion}",
-            files('Jars/gemjar-testConf.jar'),
+            files('Jars/gemjar-11Aug-3.jar'),
             "org.apache.logging.log4j:log4j-core:2.20.0",
             "org.apache.commons:commons-collections4:4.4"//serenity Version 2
     //  files('JarFile/serenity-reportportal-integration.jar')
